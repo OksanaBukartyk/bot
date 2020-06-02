@@ -1,4 +1,5 @@
 import telebot
+import request
 lupa=u'\U0001F50D'
 bulavka=u'\U0001F4CC'
 backs=u'\U000021A9'
